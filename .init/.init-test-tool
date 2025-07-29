@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/global-time-converter-139380-139393/timezone_backend"
+}
